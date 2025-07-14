@@ -13,7 +13,7 @@
 ```
 
 ```bash
-# ps aux | grep project
+# stuff
 > coding personal tools, automations & weird side quests
 ```
 
