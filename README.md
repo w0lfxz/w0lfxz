@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">w0lfxz</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Matrix code rain">
+</p>
+<p align="center"><code>system breach // access granted</code></p>
 
-<!--
-**w0lfxz/w0lfxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```bash
+# whoami
+> developer | engineer | builder
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+# skills
+> SwiftUI · Java · Angular · SQL · REST APIs · Git · Clean Code
+```
+
+```bash
+# ps aux | grep project
+> coding personal tools, automations & weird side quests
+```
+
+```bash
+# status
+> online · caffeinated · plotting
+```
+
+---
+
+<p align="center">
+  <a href="https://github.com/w0lfxz">github.com/w0lfxz</a>
+</p>
