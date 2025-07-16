@@ -29,13 +29,13 @@
     <img src="https://img.shields.io/badge/github-w0lfxz-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/guilherme-nunes-lobo-12967b258/">
-    <img src="https://img.shields.io/badge/linkedin-w0lfxz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:w0lfxz@proton.me">
     <img src="https://img.shields.io/badge/email-contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://portfolio-react-three-nu.vercel.app/">
-    <img src="https://img.shields.io/badge/website-w0lfxz.dev-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/portfolio-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
