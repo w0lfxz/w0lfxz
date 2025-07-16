@@ -8,7 +8,7 @@
 ```
 
 ```bash
-# skills
+# stack
 > SwiftUI · Java · Angular · SQL · REST APIs · Git · Clean Code
 ```
 
@@ -25,5 +25,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/w0lfxz">github.com/w0lfxz</a>
+  <a href="https://github.com/w0lfxz">
+    <img src="https://img.shields.io/badge/github-w0lfxz-181717?style=flat-square&logo=github" />
+  </a>
 </p>
+
